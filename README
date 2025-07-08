@@ -1,0 +1,45 @@
+# 🧠 MindMate – Mental Health Check-In Bot
+
+**MindMate** is an AI-powered mental wellness companion built for the Lyzr AI Architect Challenge. It helps users reflect on their emotions, offers empathetic responses, and suggests journaling or mindfulness activities based on principles from Cognitive Behavioral Therapy (CBT) and positive psychology.
+
+## 🔗 Live Agent Link
+👉 [https://studio.lyzr.ai/agent/686d0ae457d1844312195426](https://studio.lyzr.ai/agent/686d0ae457d1844312195426)
+
+## 🎯 Features
+
+- Mood-based check-in conversations  
+- Emotion-aware AI responses  
+- Personalized journaling and self-care suggestions  
+- Lightweight and deployed via Lyzr.ai  
+- Anonymous, stigma-free, and always available
+
+## 📽️ Demo Video
+(*Coming Soon*)
+
+## 🛠️ Tech Stack
+
+- **Lyzr Studio**  
+- **OpenAI GPT-4o-mini**  
+- **Python** (for local testing)
+
+## 🧱 Project Structure
+
+mindmate/
+├── mindmate.py
+├── deck/
+├── video/
+├── screenshots/
+└── README.md
+
+
+## 🧩 Functional Areas
+
+- HR
+- IT & AI
+- Mental Health Support
+- Conversational UX
+
+## 🤝 Team
+
+- Team Name: *HackerGirl*
+- Built by: *Pooja Sharma*
